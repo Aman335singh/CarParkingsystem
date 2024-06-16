@@ -1,0 +1,1 @@
+This project is focused at implementing a parking management system for an education institution (university in this case) which provides features to users such as login,choose parking type, book parking space etc. 
